@@ -34,7 +34,8 @@ To get a local copy up and running, follow these simple steps:
     ```
 ## ScreenShot
 ScreenShot of my project.
-  ![shot](https://github.com/user-attachments/assets/3c5fa4e1-59be-4a2a-aedf-5f46312e4136)
+  
+![Screenshot (7)](https://github.com/user-attachments/assets/60cd955b-74a1-415c-bdaf-bfa603f21e50)
 
 
 ## Usage
