@@ -6,6 +6,7 @@ Designing a project using HTML and CSS.
 - [Introduction](#introduction)
 - [Features](#features)
 - [Installation](#installation)
+- [Screenshot](#Screenshot)
 - [Usage](#usage)
 - [Contributing](#contributing)
 - [License](#license)
@@ -31,8 +32,13 @@ To get a local copy up and running, follow these simple steps:
     ```bash
     cd HTML-CSS-PROJECT_1
     ```
+## ScreenShot
+ScreenShot of my project.
+  ![shot](https://github.com/user-attachments/assets/3c5fa4e1-59be-4a2a-aedf-5f46312e4136)
+
 
 ## Usage
+
 Open the `index.html` file in your web browser to view the project.
 
 ## Contributing
