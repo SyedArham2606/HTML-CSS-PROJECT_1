@@ -10,7 +10,9 @@ This project is a web-based application developed using HTML and CSS. The purpos
 
 ## ScreenShot
 -screenshot of the project:
-![Screenshot (7)](https://github.com/user-attachments/assets/3208981d-08e5-44bb-970c-9e835400e59b)
+
+![Screenshot (7)](https://github.com/user-attachments/assets/c12e25fd-0207-41f2-ac56-334f255017c9)
+
 
 
 ## Setup and Usage
