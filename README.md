@@ -29,8 +29,7 @@ This project is a web-based application developed using HTML and CSS. The purpos
 ## Contributing
 Contributions are welcome! Please fork the repository and create a pull request with your changes.
 
-## License
-This project is licensed under the MIT License.
+
 
 ## Author
 - [SyedArham2606](https://github.com/SyedArham2606)
